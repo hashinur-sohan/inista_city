@@ -1,6 +1,6 @@
 let posts=[ ];
 
-const likedPostsId = [];
+const likedPostsId =()=>{};
 const reportedPostsId = [];
 
 const getLikedPosts = () => {
